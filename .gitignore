@@ -1,3 +1,9 @@
+# Ignore Rproj-file from commit
+*.Rproj
+
+# Ignore excel-files
+*.xlsx
+
 # History files
 .Rhistory
 .Rapp.history
